@@ -1,0 +1,5 @@
+- name: countries2
+  definition:
+    url: https://countries.trevorblades.com/
+    timeout_seconds: 60
+    forward_client_headers: true

@@ -1,0 +1,3 @@
+remote_schemas:
+  - !include "countries1.yaml"
+  - !include "countries2.yaml"

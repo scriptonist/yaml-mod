@@ -1,0 +1,2 @@
+cron_triggers:
+  - !include "example.yaml"

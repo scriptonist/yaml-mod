@@ -1,0 +1,10 @@
+actions:
+  - !include "action1.yaml"
+  - !include "action2.yaml"
+custom_types:
+  enums: []
+  input_objects:
+  - name: SampleInput
+  objects:
+  - name: SampleOutput
+  scalars: []

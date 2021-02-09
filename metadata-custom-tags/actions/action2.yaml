@@ -1,0 +1,4 @@
+name: action2
+  definition:
+    kind: synchronous
+    handler: http://localhost:3000
