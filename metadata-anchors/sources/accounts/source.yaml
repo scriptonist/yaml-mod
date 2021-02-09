@@ -1,0 +1,5 @@
+-
+  &accounts
+  name: "accounts"
+  configuration: *accounts/configuration
+  tables: *accounts/tables

@@ -1,0 +1,5 @@
+-
+  &products
+  name: "products"
+  configuration: *products/configuration
+  tables: *products/tables

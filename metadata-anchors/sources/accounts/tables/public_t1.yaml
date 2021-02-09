@@ -1,0 +1,5 @@
+- 
+  &accounts/public_t1
+  table:
+    schema: default
+    name: t1

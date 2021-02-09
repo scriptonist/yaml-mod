@@ -1,0 +1,2 @@
+tables: &accounts/tables
+  - *accounts/public_t1

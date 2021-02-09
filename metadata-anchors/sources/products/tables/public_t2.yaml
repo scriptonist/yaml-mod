@@ -1,0 +1,5 @@
+- 
+  &products/public_t2
+  table:
+    schema: default
+    name: t2

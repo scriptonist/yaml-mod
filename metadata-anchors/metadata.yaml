@@ -1,0 +1,3 @@
+version: 3
+remote_schemas: *remote_schemas
+sources: *sources
