@@ -1,0 +1,4 @@
+name: "default"
+tables: $$tables/index.yaml$$
+functions: $$functions/index.yaml$$
+configuration: $$configuration.yaml$$
